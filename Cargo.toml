@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-boot-performance"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS boot-performance component - boot"
+
+[lib]
+name = "boot_performance"
+path = "src/lib.rs"
