@@ -3,7 +3,7 @@ name = "SigmaOS-boot-performance"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "boot-performance component"
+description = "boot performance component"
 upstream = []
 
 [contract]
